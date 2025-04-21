@@ -2,6 +2,11 @@
 
 Este repositorio contiene ejemplos y documentación sobre cómo instalar y usar Codex, una herramienta de línea de comandos para interactuar con modelos de OpenAI.
 
+## Requisitos
+
+- Python 3.13.3
+- Node.js v22.14.0 o superior
+
 ## Instalación
 
 Codex se ha instalado globalmente en el sistema usando:
